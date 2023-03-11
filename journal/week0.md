@@ -12,9 +12,9 @@ Access key for emulenga:
 Access Key: 
 Secret access key: 
 
-"UserId": "AIDAUXUKZ3Y6TGC32EAOH",
-"Account": "325634874941",
-"Arn": "arn:aws:iam::325634874941:user/emulenga"
+"UserId": "**********",
+"Account": "**********",
+"Arn": "arn:aws:iam::**********:user/emulenga"
 
 Install AWS CLI on Gitpod:
  
