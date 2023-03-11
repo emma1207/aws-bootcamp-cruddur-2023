@@ -9,8 +9,8 @@ Alias changed:
 Credentials via CLI:
 Access key for emulenga:
 
-Access Key: AKIAUXUKZ3Y6ZJMNC3DP
-Secret access key: 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
+Access Key: 
+Secret access key: 
 
 "UserId": "AIDAUXUKZ3Y6TGC32EAOH",
 "Account": "325634874941",
